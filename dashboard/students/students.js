@@ -10,9 +10,9 @@
 // -> React -> classNames
 // HTML -> class
 
-const studentCard = document.getElementsByClassName("student-card")[0];
-const studentName = document.getElementsByClassName("name")[0];
-const studentEmail = document.getElementsByClassName("email")[0];
+// const studentCard = document.getElementsByClassName("student-card")[0];
+// const studentName = document.getElementsByClassName("name")[0];
+// const studentEmail = document.getElementsByClassName("email")[0];
 
 // Fetching data from the API -> Asynchronous/Synchronous [Promises -> fulfilled/fail -> comes later -> wait for it to be done successfully/unsuccessfully]
 const getAllStudents = async () => {
